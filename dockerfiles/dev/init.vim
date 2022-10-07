@@ -28,11 +28,6 @@ Plug 'scrooloose/nerdtree'
 Plug 'preservim/nerdcommenter'
 Plug 'mhinz/vim-startify'
 Plug 'tpope/vim-surround'
-Plug 'ekalinin/dockerfile.vim'
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'josa42/coc-docker'
-Plug 'neoclide/coc-json'
-Plug 'fannheyward/coc-pyright'
 
 call plug#end()
 
